@@ -1,19 +1,9 @@
-# uav_nuc
-# ISER 2018
+### ISER 2018
 ### A Collaborative Aerial-Ground Robotic System for Fast Exploration
-ELEC5660 Introduction to Aerial Robot project
 
+•	Formulate autonomous exploration as field gradient optimization problem
+•	Implement ground vehicle Gmapping & PID control 
+•	Implement robust state estimation, EKF & VINS-Monocular
+•	Deploy ROS Velodyne laser scanner & Set up local Wi-Fi time synchronization
 
-Description: 
-1. ROS, Control
-2. Minimum-snap trajectory
-3. 3D-2D pose estimation with tag detector
-4. Extended Kalman Filter(EKF) fusing IMU and tag odometry
-
-
-Language: C++, Matlab
-
-Library: OpenCV, Eigen
-
-
-Video Link of project:  https://youtu.be/SAdGpCZ_hmM
+Video Link of project:  https://youtu.be/ElRVw1vx6M4
