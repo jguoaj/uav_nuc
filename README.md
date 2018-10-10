@@ -1,5 +1,5 @@
-### ISER 2018
-### A Collaborative Aerial-Ground Robotic System for Fast Exploration
+## ISER 2018
+## A Collaborative Aerial-Ground Robotic System for Fast Exploration
 
 
 •	Formulate autonomous exploration as field gradient optimization problem
